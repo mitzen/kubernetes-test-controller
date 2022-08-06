@@ -1,4 +1,4 @@
-module insujang.github.io/kubernetes-test-controller
+module github.com/mitzen/kubernetes-test-controller
 
 go 1.13
 
